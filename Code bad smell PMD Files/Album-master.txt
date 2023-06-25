@@ -1,0 +1,3 @@
+"Problem","Package","File","Priority","Line","Description","Rule set","Rule"
+"1","com.yanzhenjie.album.mvp","C:\Users\91768\Downloads\Album-master\Album-master\album\src\main\java\com\yanzhenjie\album\mvp\BaseView.java","3","50","This abstract class does not have any abstract methods","Best Practices","AbstractClassWithoutAbstractMethod"
+"1","com.yanzhenjie.album.widget.photoview","C:\Users\91768\Downloads\Album-master\Album-master\album\src\main\java\com\yanzhenjie\album\widget\photoview\DefaultOnDoubleTapListener.java","3","102","Avoid empty catch blocks","Error Prone","EmptyCatchBlock"

@@ -1,0 +1,2 @@
+"Problem","Package","File","Priority","Line","Description","Rule set","Rule"
+"1","com.zzg.mybatis.generator.util","C:\Users\91768\Downloads\mybatis-generator-gui-master\mybatis-generator-gui-master\src\main\java\com\zzg\mybatis\generator\util\DbUtil.java","3","62","Avoid empty catch blocks","Error Prone","EmptyCatchBlock"

@@ -1,0 +1,4 @@
+"Problem","Package","File","Priority","Line","Description","Rule set","Rule"
+"1","com.henninghall.date_picker","C:\Users\91768\Downloads\react-native-date-picker-master\react-native-date-picker-master\android\src\main\java\com\henninghall\date_picker\DatePickerModule.java","3","107","Avoid empty catch blocks","Error Prone","EmptyCatchBlock"
+"1","com.henninghall.date_picker","C:\Users\91768\Downloads\react-native-date-picker-master\react-native-date-picker-master\android\src\main\java\com\henninghall\date_picker\DerivedData.java","3","82","Avoid empty catch blocks","Error Prone","EmptyCatchBlock"
+"1","com.rn069","C:\Users\91768\Downloads\react-native-date-picker-master\react-native-date-picker-master\examples\Rn069\android\app\src\androidTest\java\com\rn069\TestButlerProbe.java","3","45","Avoid empty catch blocks","Error Prone","EmptyCatchBlock"
